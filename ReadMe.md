@@ -15,6 +15,7 @@ The program is just a learning tool and is not a replacement actual ECG. It SHOU
 
 Please report any bugs to @darshanmandge.
 
+Cheers!
 Darshan
 
 
